@@ -1,0 +1,5 @@
+[07:41:39] [INFO] Starting SpyNet Agent...
+[07:41:40] [INFO] Baseline: 10 devices
+[07:42:03] [HIGH] New device: 192.168.4.49
+[07:42:03] [HIGH] New device: 192.168.4.31
+[07:42:03] [HIGH] New device: 192.168.4.91
